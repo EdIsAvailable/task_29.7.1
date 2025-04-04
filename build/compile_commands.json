@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/server/task_29.7.1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/task_29.7.1.dir/Main.cpp.o -c /home/server/task_29.7.1/Main.cpp",
+  "file": "/home/server/task_29.7.1/Main.cpp",
+  "output": "CMakeFiles/task_29.7.1.dir/Main.cpp.o"
+},
+{
+  "directory": "/home/server/task_29.7.1/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/task_29.7.1.dir/FineGrainedQueue.cpp.o -c /home/server/task_29.7.1/FineGrainedQueue.cpp",
+  "file": "/home/server/task_29.7.1/FineGrainedQueue.cpp",
+  "output": "CMakeFiles/task_29.7.1.dir/FineGrainedQueue.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/task_29.7.1.dir/Main.cpp.o CMakeFiles/task_29.7.1.dir/FineGrainedQueue.cpp.o -o task_29.7.1 
